@@ -10,4 +10,4 @@ The rules of conway's game of life are
 - Any live cell with more than three live neighbours dies, as if by overpopulation.
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
-![Image of Conway's Game of Life](images/assets/gameoflife.png)
+![Image of Conway's Game of Life](Screenshot%20from%202024-11-15%2011-44-55.png)
